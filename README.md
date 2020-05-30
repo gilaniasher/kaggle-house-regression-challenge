@@ -9,7 +9,7 @@ Final presentation including analysis can be viewed here:
 alt="BMGT438A Final Video Presentation" width="240" height="180" border="10" /></a>
 
 ## Final Poster
-[Link to Final Poster](./final_results/final_poster.png)
+<img src="./final_results/final_poster.png" width=800 height=800>
 
 ## Methodology
 1. Clean up the data by turning all of the categorical columns (e.g Neighborhood) into a format an ML model can read using pd.get_dummies()
