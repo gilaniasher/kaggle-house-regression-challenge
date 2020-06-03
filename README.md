@@ -1,5 +1,5 @@
 # Kaggle House Regression Challenge
-This is the "Pandas Express" submission for the **Kaggle House Prices: Advanced Regression Techniques Challenge** as part of the BMGT438A data science class.
+This is the "Pandas Express" submission for the **Kaggle House Prices: Advanced Regression Techniques Challenge** as part of the BMGT438A data science class. Note that the code in this repository relies on data provided by Kaggle which has been removed from the repository's history. Please visit Kaggle to see this dataset.
 
 ## Final Video Presentation
 Final presentation including analysis can be viewed here:
